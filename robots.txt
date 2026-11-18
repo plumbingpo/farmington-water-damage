@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://farmingtonrestorationco.com/sitemap.xml
